@@ -16,6 +16,6 @@ scikit-learn==1.2.1
 scipy==1.11.1
 seaborn==0.12.2
 six==1.16.0
-sklearn==0.0.post5
+scikit-learn==0.0.post5
 threadpoolctl==3.1.0
 tzdata==2023.3
